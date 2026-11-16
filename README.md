@@ -33,7 +33,7 @@ Se activa sola cuando la tarea tiene muchas capas. También puedes pedirla: *«m
 
 ### En claude.ai y en Cowork
 
-1. Descarga `fable-mode.zip` desde **[Releases](https://github.com/ComunidadUXUI/modo-fable/releases/latest)**.
+1. Descarga `fable-mode.zip` desde **[Releases](https://github.com/CUXUI/modo-fable/releases/latest)**.
 2. En Claude, entra a **Personalizar → Skills → + → Subir una skill** y súbelo tal como lo descargaste.
 3. Abre un chat nuevo y pide lo que necesitas.
 
@@ -42,7 +42,7 @@ Guía paso a paso con capturas: **[cómo subir una skill a claude.ai](NOTION_LIN
 ### En Claude Code
 
 ```
-/plugin marketplace add ComunidadUXUI/modo-fable
+/plugin marketplace add CUXUI/modo-fable
 /plugin install modo-fable@modo-fable
 ```
 
@@ -51,7 +51,7 @@ Después pide lo que necesitas o llama la skill directo: `/fable-mode`.
 ### En Codex, Cursor, Gemini CLI y otros agentes
 
 ```bash
-npx skills add ComunidadUXUI/modo-fable
+npx skills add CUXUI/modo-fable
 ```
 
 Necesita Node.js 22.20 o superior. Si tu agente no instala skills, deja el repositorio en tu carpeta de trabajo y pídele que lea el `SKILL.md` de la carpeta `skills/` y lo siga.
@@ -75,7 +75,7 @@ El rigor también se entrena. Lo practicamos en **[Comunidad UX/UI](https://www.
 
 ¿Prefieres empezar por correo? Suscríbete a **[Minuto UX](https://comunidad-uxui.kit.com/fb40f8e711)**, el newsletter de Comunidad UX/UI.
 
-**Más skills de Comunidad UX/UI:** [Auditoría UX con IA](https://github.com/ComunidadUXUI/auditoria-ux-con-ia) · [Diseño guiado con IA](https://github.com/ComunidadUXUI/diseno-guiado-con-ia) · [Excalidraw UX](https://github.com/ComunidadUXUI/excalidraw-ux) · [Crea tu asesor](https://github.com/ComunidadUXUI/crea-tu-asesor) · [Ahorro de tokens](https://github.com/ComunidadUXUI/ahorro-de-tokens)
+**Más skills de Comunidad UX/UI:** [Auditoría UX con IA](https://github.com/CUXUI/auditoria-ux-con-ia) · [Diseño guiado con IA](https://github.com/CUXUI/diseno-guiado-con-ia) · [Excalidraw UX](https://github.com/CUXUI/excalidraw-ux) · [Crea tu asesor](https://github.com/CUXUI/crea-tu-asesor) · [Ahorro de tokens](https://github.com/CUXUI/ahorro-de-tokens)
 
 ## Licencia
 
