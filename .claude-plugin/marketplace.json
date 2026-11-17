@@ -1,8 +1,8 @@
 {
-  "name": "modo-fable",
+  "name": "modo-riguroso",
   "owner": {
     "name": "Comunidad UX/UI",
-    "url": "https://github.com/CUXUI"
+    "url": "https://github.com/ComunidadUXUI"
   },
   "metadata": {
     "description": "Cinco compuertas para que la IA compruebe antes de afirmar.",
@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "modo-fable",
+      "name": "modo-riguroso",
       "description": "Cinco compuertas para que la IA compruebe antes de afirmar.",
       "source": "./",
       "strict": false,
@@ -20,7 +20,7 @@
       },
       "license": "CC-BY-NC-SA-4.0",
       "skills": [
-        "./skills/fable-mode"
+        "./skills/modo-riguroso"
       ]
     }
   ]

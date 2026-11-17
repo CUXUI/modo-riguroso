@@ -1,13 +1,13 @@
 ---
-name: fable-mode
-description: Usar PROACTIVAMENTE en el momento en que se detecte que una tarea tiene muchas capas - múltiples pasos dependientes, incógnitas que podrían cambiar el enfoque, debugging donde la primera teoría podría estar equivocada, o cualquier cosa que necesite verificación antes de la entrega. Usar también cuando una tarea sigue fallando o estancándose, o cuando el usuario dice "modo Fable", "piensa como Fable", "usa la skill Fable", "usa el método Fable", "trabaja como Fable", "baja el ritmo y haz esto bien", "piensa esto primero" (o sus equivalentes en inglés: "fable mode", "think like Fable", "use the Fable skill", "use the Fable method", "work like Fable", "slow down and do this right", "think this through first"). Carga la disciplina de trabajo de Fable 5 (el loop de cinco compuertas más los hábitos permanentes) para que cualquier sesión, especialmente una corriendo en Opus 5, Opus 4.8 o Sonnet 5, la aplique.
+name: modo-riguroso
+description: Usar PROACTIVAMENTE cuando una tarea tiene muchas capas - múltiples pasos dependientes, incógnitas que podrían cambiar el enfoque, un error donde la primera explicación podría estar equivocada, o cualquier cosa que necesite verificación antes de la entrega. Usar también cuando una tarea sigue fallando o se estanca, o cuando la persona dice "modo riguroso", "hazlo con rigor", "baja el ritmo y haz esto bien", "piensa esto primero", "revisa antes de afirmar" (o en inglés: "rigorous mode", "slow down and do this right", "think this through first"). Carga un método de cinco compuertas más hábitos permanentes para trabajar con rigor.
 ---
 
-# El Método Fable
+# Modo riguroso
 
-La disciplina de trabajo de Fable 5, puesta por escrito para que cualquier modelo pueda ejecutarla. Un archivo de skill no puede transferir la inteligencia bruta de Fable, pero sí puede transferir cómo trabaja Fable: cómo delimita el alcance, reúne evidencia, ataca sus propias respuestas, verifica y reporta. Correr este loop en Opus o Sonnet hace que el resultado se parezca notablemente más al de Fable en planificación, debugging y revisión.
+Un método de trabajo puesto por escrito para que cualquier modelo de IA lo ejecute. Un archivo de skill no le agrega inteligencia al modelo, pero sí puede cambiar cómo trabaja: cómo delimita el alcance, reúne evidencia, ataca sus propias respuestas, verifica y reporta. Correr este loop hace que el resultado sea notablemente más confiable en planificación, búsqueda de errores y revisión.
 
-Una tarea difícil es cualquiera donde la primera idea podría estar equivocada: builds de múltiples pasos, debugging, investigación con afirmaciones, cualquier cosa que toque datos que todavía no se miraron. Para editar un solo archivo o una búsqueda simple, saltear las compuertas y hacer el trabajo directamente.
+Una tarea difícil es cualquiera donde la primera idea podría estar equivocada: trabajos de varios pasos, búsqueda de errores, investigación con afirmaciones, cualquier cosa que toque datos que todavía no se miraron. Para editar un solo archivo o una búsqueda simple, saltear las compuertas y hacer el trabajo directamente.
 
 ## El loop: cinco compuertas, en orden
 

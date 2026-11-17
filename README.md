@@ -1,6 +1,6 @@
-<p align="center"><img src="docs/banner.png" alt="Modo Fable: cinco compuertas para tareas difíciles" width="100%"></p>
+<p align="center"><img src="docs/banner.png" alt="Modo riguroso: cinco compuertas para tareas difíciles" width="100%"></p>
 
-# Modo Fable
+# Modo riguroso
 
 **Un método de trabajo para que la IA haga bien las tareas difíciles a la primera:** las que tienen varios pasos, datos que todavía nadie miró o un error cuya primera explicación puede estar equivocada.
 
@@ -27,13 +27,13 @@ Sirve igual para diseño: planificar un research, revisar un informe antes de en
 
 ## Cómo se usa
 
-Se activa sola cuando la tarea tiene muchas capas. También puedes pedirla: *«modo Fable»*, *«piensa esto primero»*, *«baja el ritmo y haz esto bien»*.
+Se activa sola cuando la tarea tiene muchas capas. También puedes pedirla: *«modo riguroso»*, *«piensa esto primero»*, *«baja el ritmo y haz esto bien»*.
 
 ## Instalación
 
 ### En claude.ai y en Cowork
 
-1. Descarga `fable-mode.zip` desde **[Releases](https://github.com/CUXUI/modo-fable/releases/latest)**.
+1. Descarga `modo-riguroso.zip` desde **[Releases](https://github.com/CUXUI/modo-riguroso/releases/latest)**.
 2. En Claude, entra a **Personalizar → Skills → + → Subir una skill** y súbelo tal como lo descargaste.
 3. Abre un chat nuevo y pide lo que necesitas.
 
@@ -42,16 +42,16 @@ Guía paso a paso con capturas: **[cómo subir una skill a claude.ai](NOTION_LIN
 ### En Claude Code
 
 ```
-/plugin marketplace add CUXUI/modo-fable
-/plugin install modo-fable@modo-fable
+/plugin marketplace add CUXUI/modo-riguroso
+/plugin install modo-riguroso@modo-riguroso
 ```
 
-Después pide lo que necesitas o llama la skill directo: `/fable-mode`.
+Después pide lo que necesitas o llama la skill directo: `/modo-riguroso`.
 
 ### En Codex, Cursor, Gemini CLI y otros agentes
 
 ```bash
-npx skills add CUXUI/modo-fable
+npx skills add CUXUI/modo-riguroso
 ```
 
 Necesita Node.js 22.20 o superior. Si tu agente no instala skills, deja el repositorio en tu carpeta de trabajo y pídele que lea el `SKILL.md` de la carpeta `skills/` y lo siga.
@@ -59,7 +59,7 @@ Necesita Node.js 22.20 o superior. Si tu agente no instala skills, deja el repos
 ## Qué hay adentro
 
 ```
-skills/fable-mode/
+skills/modo-riguroso/
 └── SKILL.md   las cinco compuertas y los hábitos permanentes
 ```
 
@@ -73,9 +73,12 @@ skills/fable-mode/
 
 El rigor también se entrena. Lo practicamos en **[Comunidad UX/UI](https://www.skool.com/comunidaduxui/about)** revisando trabajos reales con método.
 
+<p align="center"><a href="https://www.skool.com/comunidaduxui/about"><img src="docs/cta-comunidad.png" alt="Súmate a Comunidad UX/UI" width="100%"></a></p>
+
 ¿Prefieres empezar por correo? Suscríbete a **[Minuto UX](https://comunidad-uxui.kit.com/fb40f8e711)**, el newsletter de Comunidad UX/UI.
 
-**Más skills de Comunidad UX/UI:** [Auditoría UX con IA](https://github.com/CUXUI/auditoria-ux-con-ia) · [Diseño guiado con IA](https://github.com/CUXUI/diseno-guiado-con-ia) · [Excalidraw UX](https://github.com/CUXUI/excalidraw-ux) · [Crea tu asesor](https://github.com/CUXUI/crea-tu-asesor) · [Ahorro de tokens](https://github.com/CUXUI/ahorro-de-tokens)
+<p align="center"><a href="https://comunidad-uxui.kit.com/fb40f8e711"><img src="docs/cta-minuto-ux.png" alt="Suscríbete a Minuto UX" width="100%"></a></p>
+
 
 ## Licencia
 
